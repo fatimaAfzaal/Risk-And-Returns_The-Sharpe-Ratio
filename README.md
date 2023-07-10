@@ -1,1 +1,3 @@
 # Risk-And-Returns_The-Sharpe-Ratio
+
+In a comparison between Amazon and Facebook in terms of their Sharpe ratios, it was found that Amazon had a Sharpe ratio twice as high as Facebook in 2016. This indicates that for each unit of risk assumed by an investor, an investment in Amazon returned twice as much compared to the S&P 500. The higher Sharpe ratio for Amazon was mainly driven by its higher average daily returns, while the difference in risk between Amazon and Facebook was relatively small. The Sharpe Ratio provides a useful tool for decision-making when evaluating investment alternatives with different returns and risks, allowing for a fair and equal comparison of investment opportunities.
